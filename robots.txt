@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ehsanht08.github.io/xiaomibazar/sitemap.xml
